@@ -1,0 +1,28 @@
+body{
+    width: 1300px;
+    margin: auto;
+    
+}
+.container{
+    margin-top: 50px;
+}
+section{
+    width: 100%;
+    height: 250vh;
+    background-repeat: no-repeat;
+    
+}
+.centerposi{
+    text-align: center;
+}
+.img_height{
+    border: 5px solid red;
+    height: 600px;
+
+}
+.heading{
+    background-color:antiquewhite;
+    align-items: center;
+    text-align: center;
+   
+}
